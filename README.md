@@ -26,3 +26,23 @@ exemplo
 -------------------------------------
 
 O &  (E comercial) serve para fazer uma referencia no mesmo ponto de memoria 
+-------------------------------------
+
+Condicionais If else 
+
+exemplo= $number1 = 70;
+         $number2 = 50;
+         $isAdmin = false;
+         
+$resultado = $number1 > $number2 && $isAdmin;
+
+echo ($resultado) ? 'é verdadeiro' : 'não é verdadeiro';
+
+exemplo 2= 
+
+if($number1>$number2){
+   echo 'é maior';
+}else{
+   echo 'não é maior';
+}
+
