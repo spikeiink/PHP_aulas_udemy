@@ -46,3 +46,7 @@ if($number1>$number2){
    echo 'não é maior';
 }
 
+
+normalmente se usa if para saber o verdadeiro ou falso e switch para verificar um valor passando entre parentes "cases" analisando 
+
+echo strlen serve para cortar o numero de caracteres que tem em uma var 
