@@ -50,3 +50,22 @@ if($number1>$number2){
 normalmente se usa if para saber o verdadeiro ou falso e switch para verificar um valor passando entre parentes "cases" analisando 
 
 echo strlen serve para cortar o numero de caracteres que tem em uma var 
+-----------------------------------------------------------------------
+         arrays
+         
+array_push (var, valor) // para adicionar um valor no array
+array_unshift()var, valor) // para adicionar um valor na var em primeiro sem substituir 
+
+
+------------------------------------------------------------------------
+
+Transformando Arrays em objeto
+
+$person = ['name' => "valor", "age" => 49]
+
+$change = (object) $person;
+-------------------------------------------------------------------------
+
+
+
+
